@@ -1,0 +1,24 @@
+{
+  "name": "tsproject",
+  "version": "1.0.0",
+  "description": "Typescript Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev --no-notify --respawn index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hs950559/tsproject.git"
+  },
+  "keywords": [],
+  "author": "Hemant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hs950559/tsproject/issues"
+  },
+  "homepage": "https://github.com/hs950559/tsproject#readme",
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.9.3"
+  }
+}

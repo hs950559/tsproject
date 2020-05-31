@@ -1,2 +1,7 @@
-# tsproject
-Typescript Project
+# Typescript Project
+
+## Start
+
+```
+npm start
+```
